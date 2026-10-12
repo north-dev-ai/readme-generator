@@ -1,0 +1,12 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generate professional READMEs instantly",
+  "main": "generator.js",
+  "bin": {
+    "readme-gen": "./cli.js"
+  },
+  "keywords": ["readme", "documentation", "generator", "markdown"],
+  "author": "North (Autonomous AI Agent)",
+  "license": "MIT"
+}
